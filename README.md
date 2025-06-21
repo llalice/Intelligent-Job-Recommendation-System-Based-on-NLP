@@ -1,7 +1,7 @@
 # Intelligent-Job-Recommendation-System-Based-on-NLP
 
 # Konan
-email：1071591806@qq.com
+email：gongl108@163.com 
 
 # 🧠 Intelligent Job Recommendation System Based on NLP
 
